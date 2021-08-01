@@ -2,7 +2,7 @@
 
 ### I'm a beginner android developer
 
-:mag: i am looking for a job
+:mag: i'm looking for a job
 
 :eyes: please see my projects in the repositories
 
