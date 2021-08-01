@@ -2,14 +2,22 @@
 
 ### I'm a beginner android developer
 
+:mag: i am looking for a job
+
+:eyes: please see my projects in the repositories
+
 :muscle: i like to write code
+
+:computer: self-education without work experience
+
 
 ### Connect with me
 <p>
   
 <a href="https://www.instagram.com/manmario88/?hl=ru"> ![inst4040](https://user-images.githubusercontent.com/61028366/127775957-b9a8c8e7-5acd-4356-bf05-fb374164d8a7.png)
 <a href="https://vk.com/manmario"> ![vk4040](https://user-images.githubusercontent.com/61028366/127775946-9b0643a9-402d-454c-9ad5-03b66442ce5b.jpg)
-
+marinov.dev.88@gmail.com
+  
   </p>
 
 ### My technological stack
