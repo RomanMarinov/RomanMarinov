@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Android Developer
 -----------------
 
-* 🌍  I'm based in I
-* ✉️  You can contact me at [marinov37@mail.r](mailto:marinov37@mail.ru)
+* 🌍  I'm based in Ivanovo
+* ✉️  You can contact me at [marinov37@mail.ru](mailto:marinov37@mail.ru)
 * 🧠  I'm learning Jetpack Compose
 
 <a href="https://www.github.com/RomanMarinov" target="_blank" rel="noreferrer"><img
