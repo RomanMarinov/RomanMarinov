@@ -1,77 +1,27 @@
-## Hi there 👋 I'm Roman!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roman Marinov
+=====================================================================================================================================
 
-### I'm a beginner android developer
+Android Developer
+-----------------
 
-:mag: i'm looking for a job
-
-:eyes: please see my projects in the repositories
-
-:muscle: i like to write code
-
-:computer: self-education without work experience
-
-
-### Connect with me
-<p>
-  
-<a href="https://www.instagram.com/manmario88/?hl=ru"> ![inst4040](https://user-images.githubusercontent.com/61028366/127775957-b9a8c8e7-5acd-4356-bf05-fb374164d8a7.png)
-<a href="https://vk.com/manmario"> ![vk4040](https://user-images.githubusercontent.com/61028366/127775946-9b0643a9-402d-454c-9ad5-03b66442ce5b.jpg)
-marinov.dev.88@gmail.com
-  
-  </p>
-
-### My technological stack
-I mostly use    
-
-![android_4040new](https://user-images.githubusercontent.com/61028366/127777354-57a07b5f-5219-422a-9bb0-97fdf41183db.png)
-
-I rarely use
-
- 
-![php4040](https://user-images.githubusercontent.com/61028366/127776590-5b149d34-01b8-4916-853c-d025b7ec73a9.png)
-![mysql_4040](https://user-images.githubusercontent.com/61028366/127777405-8b55f77e-6fd9-4e25-baf2-bf772300ac72.jpg)
-
-
-
-    
-
-
-  
-  
-  
-  
-  
-
-
-  
-  
-  
-  
-  
-  
-  
-
-
-    
-    
-    
-    
-    
-    
-    
-    
-
-<!--
-**RomanMarinov/RomanMarinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in I
+*   ✉️  You can contact me at [marinov37@mail.r](mailto:marinov37@mail.ru)
+*   🧠  I'm learning Jetpack Compose<a href="https://www.github.com/RomanMarinov" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/RomanMarinov?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+<p align="left">
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+</p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/RomanMarinov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/roman-marinov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/RomanMarinov"><img src="https://github-readme-stats.vercel.app/api?username=RomanMarinov&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RomanMarinov's GitHub stats" /></a><a
+                      href="http://www.github.com/RomanMarinov"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=RomanMarinov&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/RomanMarinov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanMarinov&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
