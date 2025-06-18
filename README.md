@@ -6,7 +6,7 @@ Android Developer
 
 * 🌍  I'm based in Ivanovo
 * ✉️  You can contact me at [marinov37@mail.ru](mailto:marinov37@mail.ru)
-* 🧠  I'm learning Jetpack Compose
+* 🧠  I'm learning Compose Multiplatform
 
 <a href="https://www.github.com/RomanMarinov" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/RomanMarinov?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
