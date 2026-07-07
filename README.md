@@ -107,24 +107,6 @@ I enjoy turning ideas into working products, improving architecture, and growing
 
 ---
 
-## Connect
-
-<div align="center">
-
-<a href="https://github.com/RomanMarinov" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-RomanMarinov-1c1917?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/roman-marinov" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-roman--marinov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:marinov37@mail.ru">
-  <img src="https://img.shields.io/badge/Email-marinov37@mail.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
-
-<br/>
-
 <div align="center">
   <i>Open to interesting mobile projects and collaboration.</i>
 </div>
