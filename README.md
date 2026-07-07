@@ -58,17 +58,14 @@ I enjoy turning ideas into working products, improving architecture, and growing
 
 ## GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RomanMarinov&theme=react-dark&hide_border=true&area=true&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff" width="100%" alt="Contribution graph" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RomanMarinov&theme=react-dark&hide_border=true&area=true&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff" width="100%" alt="Contribution graph" />
-
-<br/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RomanMarinov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff" height="180" alt="GitHub stats" />
-&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RomanMarinov&layout=compact&theme=tokyonight&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff" height="180" alt="Top languages" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RomanMarinov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RomanMarinov&layout=donut&theme=tokyonight&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&ring_color=0891b2" alt="Top languages" />
+</p>
 
 ---
 
