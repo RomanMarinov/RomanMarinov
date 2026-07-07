@@ -64,8 +64,6 @@ I enjoy turning ideas into working products, improving architecture, and growing
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=RomanMarinov&theme=dark&hide_border=true&background=1c1917&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" height="180" alt="GitHub streak" />
-&nbsp;
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RomanMarinov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff" height="180" alt="GitHub stats" />
 &nbsp;
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RomanMarinov&layout=compact&theme=tokyonight&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff" height="180" alt="Top languages" />
