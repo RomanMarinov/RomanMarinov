@@ -22,7 +22,7 @@
 
 ## About Me
 
-I'm a **mobile developer** from **Ivanovo, Russia**, focused on building clean and reliable Android apps with **Kotlin** and **Jetpack Compose**.
+I'm a **mobile developer** from **Russia**, focused on building clean and reliable Android apps with **Kotlin** and **Jetpack Compose**.
 
 Recently, I've started diving into **iOS development** — learning **Swift** and **SwiftUI** while bringing my Android experience into the Apple ecosystem.
 
