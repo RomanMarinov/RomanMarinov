@@ -32,19 +32,57 @@ I enjoy turning ideas into working products, improving architecture, and growing
 
 ## Tech Stack
 
-<div align="center">
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,swift,androidstudio,xcode,git,github&theme=dark" alt="Tech stack" />
+<p align="left">
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer" title="Kotlin">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="40" height="40" alt="Kotlin" />
+  </a>
+  &nbsp;
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer" title="Java">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" />
+  </a>
+  &nbsp;
+  <a href="https://swift.org/" target="_blank" rel="noreferrer" title="Swift">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="40" height="40" alt="Swift" />
+  </a>
+</p>
 
-<br/><br/>
+**Mobile**
 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
-<img src="https://img.shields.io/badge/SwiftUI-0D1117?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
-<img src="https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform" />
+<p align="left">
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer" title="Android Studio">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" />
+  </a>
+  &nbsp;
+  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer" title="Jetpack Compose">
+    <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" width="40" height="40" alt="Jetpack Compose" />
+  </a>
+  &nbsp;
+  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer" title="Xcode">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" width="40" height="40" alt="Xcode" />
+  </a>
+  &nbsp;
+  <a href="https://developer.apple.com/swiftui/" target="_blank" rel="noreferrer" title="SwiftUI">
+    <img src="https://cdn.simpleicons.org/apple/000000" width="40" height="40" alt="SwiftUI" />
+  </a>
+  &nbsp;
+  <a href="https://www.jetbrains.com/kotlin-multiplatform/" target="_blank" rel="noreferrer" title="Kotlin Multiplatform">
+    <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="40" height="40" alt="Kotlin Multiplatform" />
+  </a>
+</p>
 
-</div>
+**Tools**
+
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/" target="_blank" rel="noreferrer" title="GitHub">
+    <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
