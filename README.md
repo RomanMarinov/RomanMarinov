@@ -1,30 +1,97 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roman Marinov
-=====================================================================================================================================
+<div align="center">
 
-Android Developer
------------------
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=170&section=header&text=Roman%20Marinov&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Roman Marinov" />
 
-* I'm based in Ivanovo
-* You can contact me at [marinov37@mail.ru](mailto:marinov37@mail.ru)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Mobile+Developer;Android+%7C+Kotlin+%26+Jetpack+Compose;Exploring+iOS+%7C+Swift+%26+SwiftUI;Building+apps+that+ship)](https://git.io/typing-svg)
 
-<a href="https://www.github.com/RomanMarinov" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/RomanMarinov?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Skills
+<br/>
 
-<p align="left">
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-</p>
+<a href="https://github.com/RomanMarinov" target="_blank">
+  <img src="https://img.shields.io/github/followers/RomanMarinov?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917" alt="GitHub followers" />
+</a>
+<a href="mailto:marinov37@mail.ru">
+  <img src="https://img.shields.io/badge/Email-marinov37@mail.ru-0891b2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1917" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/roman-marinov" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Roman_Marinov-0891b2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1c1917" alt="LinkedIn" />
+</a>
 
-### Socials
+</div>
 
-<p align="left"> <a href="https://www.github.com/RomanMarinov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/roman-marinov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+---
 
-### Badges
+## About Me
 
-<b>My GitHub Stats</b>
+I'm a **mobile developer** from **Ivanovo, Russia**, focused on building clean and reliable Android apps with **Kotlin** and **Jetpack Compose**.
 
-<a href="http://www.github.com/RomanMarinov"><img src="https://github-readme-stats.vercel.app/api?username=RomanMarinov&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RomanMarinov's GitHub stats" /></a>
+Recently, I've started diving into **iOS development** — learning **Swift** and **SwiftUI** while bringing my Android experience into the Apple ecosystem.
 
-<a href="http://www.github.com/RomanMarinov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RomanMarinov&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+I enjoy turning ideas into working products, improving architecture, and growing as an engineer across both platforms.
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,swift,androidstudio,xcode,git,github&theme=dark" alt="Tech stack" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+<img src="https://img.shields.io/badge/SwiftUI-0D1117?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
+<img src="https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform" />
+
+</div>
+
+---
+
+## What I'm Working On
+
+- Shipping and polishing **Android** apps with modern UI and solid architecture
+- Learning **iOS** development — Swift, SwiftUI, and native Apple tooling
+- Exploring **Kotlin Multiplatform** where it makes sense for shared logic
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RomanMarinov&theme=react-dark&hide_border=true&area=true&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff" width="100%" alt="Contribution graph" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=RomanMarinov&theme=dark&hide_border=true&background=1c1917&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" height="180" alt="GitHub streak" />
+&nbsp;
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RomanMarinov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff" height="180" alt="GitHub stats" />
+&nbsp;
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RomanMarinov&layout=compact&theme=tokyonight&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff" height="180" alt="Top languages" />
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/RomanMarinov" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-RomanMarinov-1c1917?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/roman-marinov" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-roman--marinov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:marinov37@mail.ru">
+  <img src="https://img.shields.io/badge/Email-marinov37@mail.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <i>Open to interesting mobile projects and collaboration.</i>
+</div>
